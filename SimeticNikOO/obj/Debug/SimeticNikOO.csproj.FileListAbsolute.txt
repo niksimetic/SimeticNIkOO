@@ -1,0 +1,6 @@
+C:\Users\3.D\source\repos\SimeticNikOO\bin\Debug\SimeticNikOO.exe.config
+C:\Users\3.D\source\repos\SimeticNikOO\bin\Debug\SimeticNikOO.exe
+C:\Users\3.D\source\repos\SimeticNikOO\bin\Debug\SimeticNikOO.pdb
+C:\Users\3.D\source\repos\SimeticNikOO\obj\Debug\SimeticNikOO.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\SimeticNikOO\obj\Debug\SimeticNikOO.exe
+C:\Users\3.D\source\repos\SimeticNikOO\obj\Debug\SimeticNikOO.pdb
